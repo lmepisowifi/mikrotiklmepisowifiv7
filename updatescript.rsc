@@ -2,10 +2,10 @@
 # Hotspot Full Sync from GitHub (Optimized for ROSv7)
 # ==========================================
 :local profileName "default"
-:local userprofilescript "https://raw.githubusercontent.com/lmepisowifi/mikrotiklmepisowifi/refs/heads/main/userprofilescript.rsc"
+:local userprofilescript "https://raw.githubusercontent.com/lmepisowifi/mikrotiklmepisowifiv7/refs/heads/main/userprofilescript.rsc"
 :local loginFile   "gh-on-login.rsc"
 :local logoutFile  "gh-on-logout.rsc"
-:local ghBase            "https://raw.githubusercontent.com/lmepisowifi/mikrotiklmepisowifi/main"
+:local ghBase            "https://raw.githubusercontent.com/lmepisowifi/mikrotiklmepisowifiv7/main"
 :local ghHotspotBase     ($ghBase . "/hotspot")
 :local ghOptionsUrl      ($ghBase . "/options.txt")
 :local localVersionFile  "hotspot/version.txt"
